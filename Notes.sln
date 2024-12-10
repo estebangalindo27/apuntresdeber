@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32E867E-FCDC-4003-8049-A28AA6CBFFDD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8478146F-06E2-42DB-B858-FF79DFB84953}
+	EndGlobalSection
+EndGlobal
